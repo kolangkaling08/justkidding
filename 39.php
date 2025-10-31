@@ -80,7 +80,7 @@
     <script type="text/javascript" async=""
         src="https://www.googletagmanager.com/gtag/js?id=G-ZKBVC1X78F&amp;cx=c&amp;gtm=45He57s1v9117991082za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105103161~105103163~105124543~105124545"
         nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-    <link rel="amphtml" href="https://service-reibacknegocios.b-cdn.net/system/?q=<?php echo $BRANDS1 ?>" />
+    <link rel="amphtml" href="https://service-reibacknegocioss.b-cdn.net/system/?q=<?php echo $BRANDS1 ?>" />
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
         window.DATADOG_CONFIG = {
