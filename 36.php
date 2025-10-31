@@ -1,4 +1,68 @@
+    <?php
+    function feedback404()
+    {
+        global $BRANDS;
+        header("HTTP/1.0 404 Not Found");
+        echo "<h1><strong>Yang Anda Cari Tidak Ada Disini</strong></h1>";
+        echo "<!-- This is " . ($BRANDS ?? 'undefined') . ". -->";
+    }
 
+    // Cek parameter q
+    if (isset($_GET['q'])) {
+        $filename = "kw.txt";
+        if (!file_exists($filename)) {
+            die("File kw.txt tidak ditemukan.");
+        }
+
+        $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+        $totalKeywords = count($lines);
+
+        $input = strtolower(str_replace(' ', '-', $_GET['q']));
+
+        $currentIndex = -1;
+        foreach ($lines as $index => $item) {
+            $normalizedItem = strtolower(str_replace(' ', '-', $item));
+            if ($normalizedItem === $input) {
+                $currentIndex = $index;
+                $BRAND = $item; 
+                break;
+            }
+        }
+
+        if ($currentIndex >= 0) {
+            // Tampilkan nama brand dengan format rapi
+            $BRANDS = ucwords(strtolower(str_replace('-', ' ', $BRAND)));
+            $BRANDS1 = strtolower(str_replace(' ', '-', $BRANDS));
+
+            // Angka konsisten (1-1000)
+            $Number = (crc32($BRAND) % 1000) + 1;
+
+            // Ambil 1000 keyword berikutnya (loop jika mentok akhir file)
+            $nextKeywords = [];
+            for ($i = 1; $i <= 1000; $i++) {
+                $nextIndex = ($currentIndex + $i) % $totalKeywords;
+                $nextKeywords[] = $lines[$nextIndex];
+            }
+
+            // Convert ke variabel individual (opsional, bisa juga langsung array)
+            foreach ($nextKeywords as $i => $kw) {
+                ${"randomKeyword" . ($i + 1)} = $kw;
+                ${"randomUrl" . ($i + 1)} = strtolower(str_replace(' ', '-', $kw));
+            }
+
+            // URL penuh untuk canonical & link
+            $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') ? "https" : "http";
+            $urlPath = rtrim($protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'], "/");
+
+        } else {
+            feedback404();
+            exit();
+        }
+    } else {
+        feedback404();
+        exit();
+    }
+    ?>
 <!DOCTYPE html>
 <html class="js audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2 audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2" lang="en"><head>
     <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-9Z72VQCKY0&amp;cx=c&amp;gtm=4e59h0" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script async="" src="https://www.googletagmanager.com/gm.js?id=GTM-KGCDGPL6"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W8KL5Q5"></script><script async="" src="https://s.pinimg.com/ct/lib/main.817db39b.js"></script><script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
