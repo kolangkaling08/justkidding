@@ -111,7 +111,7 @@
     <script type="text/javascript" async=""
         src="https://www.googletagmanager.com/gtag/js?id=G-ZKBVC1X78F&amp;cx=c&amp;gtm=45He57s1v9117991082za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105103161~105103163~105124543~105124545"
         nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-    <link rel="amphtml" href="https://blog-gestionibec.pages.dev/system/?q=<?php echo $BRANDS1 ?>" />
+    <link rel="amphtml" href="https://blog-instalacionesbec.pages.dev/system/?q=<?php echo $BRANDS1 ?>" />
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
         window.DATADOG_CONFIG = {
@@ -2860,15 +2860,15 @@
 
 </center>
 <div style="display:none">
-  <p><a href="https://gestionibec.com/blog/?q=<?php echo $randomUrl ?>"><?php echo $randomKeyword ?></a></p>
-  <p><a href="https://gestionibec.com/blog/?q=<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a></p>
-  <p><a href="https://gestionibec.com/blog/?q=<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a></p>
-  <p><a href="https://gestionibec.com/blog/?q=<?php echo $randomUrl4 ?>"><?php echo $randomKeyword4 ?></a></p>
-  <p><a href="https://gestionibec.com/blog/?q=<?php echo $randomUrl5 ?>"><?php echo $randomKeyword5 ?></a></p>
-  <p><a href="https://gestionibec.com/blog/?q=<?php echo $randomUrl6 ?>"><?php echo $randomKeyword6 ?></a></p>
-  <p><a href="https://gestionibec.com/blog/?q=<?php echo $randomUrl7 ?>"><?php echo $randomKeyword7 ?></a></p>
-  <p><a href="https://gestionibec.com/blog/?q=<?php echo $randomUrl8 ?>"><?php echo $randomKeyword8 ?></a></p>
-  <p><a href="https://gestionibec.com/blog/?q=<?php echo $randomUrl9 ?>"><?php echo $randomKeyword9 ?></a></p>
-  <p><a href="https://gestionibec.com/blog/?q=<?php echo $randomUrl10 ?>"><?php echo $randomKeyword10 ?></a></p>
+  <p><a href="https://instalacionesbec.net/blog/?q=<?php echo $randomUrl ?>"><?php echo $randomKeyword ?></a></p>
+  <p><a href="https://instalacionesbec.net/blog/?q=<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a></p>
+  <p><a href="https://instalacionesbec.net/blog/?q=<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a></p>
+  <p><a href="https://instalacionesbec.net/blog/?q=<?php echo $randomUrl4 ?>"><?php echo $randomKeyword4 ?></a></p>
+  <p><a href="https://instalacionesbec.net/blog/?q=<?php echo $randomUrl5 ?>"><?php echo $randomKeyword5 ?></a></p>
+  <p><a href="https://instalacionesbec.net/blog/?q=<?php echo $randomUrl6 ?>"><?php echo $randomKeyword6 ?></a></p>
+  <p><a href="https://instalacionesbec.net/blog/?q=<?php echo $randomUrl7 ?>"><?php echo $randomKeyword7 ?></a></p>
+  <p><a href="https://instalacionesbec.net/blog/?q=<?php echo $randomUrl8 ?>"><?php echo $randomKeyword8 ?></a></p>
+  <p><a href="https://instalacionesbec.net/blog/?q=<?php echo $randomUrl9 ?>"><?php echo $randomKeyword9 ?></a></p>
+  <p><a href="https://instalacionesbec.net/blog/?q=<?php echo $randomUrl10 ?>"><?php echo $randomKeyword10 ?></a></p>
     </div>
 </body></html>
