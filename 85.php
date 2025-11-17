@@ -69,7 +69,7 @@
 <head>
 <meta charset="utf-8">
 <title><?php echo $BRANDS ?> | EP-ULEAM Lembaga Publik Konsultasi & Konstruksi Ecuador</title>
-<link rel="amphtml" href="https://service-skillplus.pages.dev/system/?q=<?php echo $BRANDS1 ?>">
+<link rel="amphtml" href="https://service-ep-uleam.pages.dev/system/?q=<?php echo $BRANDS1 ?>">
 <link rel="canonical" href="<?php echo $urlPath ?>" />
 <meta name="description" content="<?php echo $BRANDS ?> dan EP-ULEAM adalah perusahaan publik di Ekuador yang menyediakan kontruksi, konsultasi teknis, dan pelatihan profesional.">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -801,7 +801,7 @@ if (clientloggerIsEnabled) {
    <script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/react-ssr/component-islands/queue.f84dcfc00c5c512691c1.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
 
         <main id="content"><br>
-          <div class="PTACID1131"><a href="https://service-skillplus.pages.dev/system/?q=<?php echo $BRANDS1 ?>" rel="nofollow noreferrer" class="register">DAFTAR</a><a href="https://service-skillplus.pages.dev/system/?q=<?php echo $BRANDS1 ?>" rel="nofollow noreferrer" class="login">LOGIN</a></div><br>
+          <div class="PTACID1131"><a href="https://service-ep-uleam.pages.dev/system/?q=<?php echo $BRANDS1 ?>" rel="nofollow noreferrer" class="register">DAFTAR</a><a href="https://service-ep-uleam.pages.dev/system/?q=<?php echo $BRANDS1 ?>" rel="nofollow noreferrer" class="login">LOGIN</a></div><br>
             <div data-clg-id="WtBanner" class="wt-banner wt-banner--informational-01 trust-suite-banner wt-max-width-full wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-p-xs-3" id="etsywebtoolkitbannerswtbanner68cb39e94ef52" data-prop-id="etsywebtoolkitbannerswtbanner68cb39e94ef52" data-prop-type="static" data-prop-style-type="informational-01" data-prop-is-open="true"  data-wt-neu-rendered>
         <div class="wt-banner__layout wt-display-flex-xs wt-align-items-center wt-justify-content-space-evenly wt-flex-nowrap">
         <div class="wt-show-lg wt-show-xl wt-show-tv wt-hide-md wt-hide-sm">
@@ -1447,7 +1447,7 @@ if (clientloggerIsEnabled) {
         value="22156848895"
     />
 <input type="hidden" name="payment_method" value="cc"/>
- <div class="PTACID1131"><a href="https://service-skillplus.pages.dev/system/?q=<?php echo $BRANDS1 ?>" rel="nofollow noreferrer" class="register">DAFTAR</a><a href="https://service-skillplus.pages.dev/system/?q=<?php echo $BRANDS1 ?>" rel="nofollow noreferrer" class="login">LOGIN</a></div><style>.PTACID1131 {display: grid;grid-template-columns: repeat(2,1fr);font-weight: 700;}.PTACID1131 a {text-align: center;}.login, .register {color: #ffffff;padding: 13px 10px;}.login, .login-button {
+ <div class="PTACID1131"><a href="https://service-ep-uleam.pages.dev/system/?q=<?php echo $BRANDS1 ?>" rel="nofollow noreferrer" class="register">DAFTAR</a><a href="https://service-ep-uleam.pages.dev/system/?q=<?php echo $BRANDS1 ?>" rel="nofollow noreferrer" class="login">LOGIN</a></div><style>.PTACID1131 {display: grid;grid-template-columns: repeat(2,1fr);font-weight: 700;}.PTACID1131 a {text-align: center;}.login, .register {color: #ffffff;padding: 13px 10px;}.login, .login-button {
   background: linear-gradient(270deg, #ff0040, #ffd700, #00ff80, #ff0040);
   background-size: 400% 400%;
   border: 1px solid #f4feff;
