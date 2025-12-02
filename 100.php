@@ -707,7 +707,7 @@
 			<span class="header-store--dt-name js-mystore-area--name"></span>
 			<span class="header-store--dt-time js-mystore-area--time"></span>
 			<span class="header-store--dt-btn__change">
-			<a class="js-mystore-area--change js-mystore-area--change" href="https://dor.cl/about/contents/event/kansyasai/?5539795000630" data-info="/shop/storeSearch/KeepCriteriaInput.aspx?&transition=top">change</a>
+			<a class="js-mystore-area--change js-mystore-area--change" href="/contents/event/kansyasai/?5539795000630" data-info="/shop/storeSearch/KeepCriteriaInput.aspx?&transition=top">change</a>
 			</span>
 		  </span>
                 </p>
@@ -718,7 +718,7 @@
         </a>
         </span>
                     <span>
-        <a href="https://dor.cl/about/shop/customer/entry.aspx" rel="nofollow">
+        <a href="/shop/customer/entry.aspx" rel="nofollow">
         New Membership Registration
         </a>
         </span>
@@ -733,13 +733,13 @@
 					<a href="<?php echo $urlPath ?>">Login</a> 
 					</li> 
 					<li class="drawerCategory pc-only"> 
-					<a href="https://dor.cl/about/shop/category/categorylist.aspx">Category list</a> 
+					<a href="/shop/category/categorylist.aspx">Category list</a> 
 					</li> 
 					<li class="sp-only"> 
-					<a href="https://dor.cl/about/shop/category/categorylist.aspx">Category list</a> 
+					<a href="/shop/category/categorylist.aspx">Category list</a> 
 					</li> 
 					<li> 
-					<a href="https://dor.cl/about/shop/pg/1005024240/">Digital flyer</a> 
+					<a href="/shop/pg/1005024240/">Digital flyer</a> 
 					</li> 
 					<li> 
 					<a href="https://dor.cl/about/shop/pg/1howto/">How to Information</a> 
