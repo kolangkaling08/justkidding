@@ -707,7 +707,7 @@
 			<span class="header-store--dt-name js-mystore-area--name"></span>
 			<span class="header-store--dt-time js-mystore-area--time"></span>
 			<span class="header-store--dt-btn__change">
-			<a class="js-mystore-area--change js-mystore-area--change" href="https://alfagama.com/aboutcontents/event/kansyasai/?5539795000630" data-info="/shop/storeSearch/KeepCriteriaInput.aspx?&transition=top">change</a>
+			<a class="js-mystore-area--change js-mystore-area--change" href="https://alfagama.com/about/contents/event/kansyasai/?5539795000630" data-info="/shop/storeSearch/KeepCriteriaInput.aspx?&transition=top">change</a>
 			</span>
 		  </span>
                 </p>
@@ -718,7 +718,7 @@
         </a>
         </span>
                     <span>
-        <a href="https://alfagama.com/aboutshop/customer/entry.aspx" rel="nofollow">
+        <a href="https://alfagama.com/about/shop/customer/entry.aspx" rel="nofollow">
         New Membership Registration
         </a>
         </span>
@@ -733,743 +733,743 @@
 					<a href="<?php echo $urlPath ?>">Login</a> 
 					</li> 
 					<li class="drawerCategory pc-only"> 
-					<a href="https://alfagama.com/aboutshop/category/categorylist.aspx">Category list</a> 
+					<a href="https://alfagama.com/about/shop/category/categorylist.aspx">Category list</a> 
 					</li> 
 					<li class="sp-only"> 
-					<a href="https://alfagama.com/aboutshop/category/categorylist.aspx">Category list</a> 
+					<a href="https://alfagama.com/about/shop/category/categorylist.aspx">Category list</a> 
 					</li> 
 					<li> 
-					<a href="https://alfagama.com/aboutshop/pg/1005024240/">Digital flyer</a> 
+					<a href="https://alfagama.com/about/shop/pg/1005024240/">Digital flyer</a> 
 					</li> 
 					<li> 
-					<a href="https://alfagama.com/aboutshop/pg/1howto/">How to Information</a> 
+					<a href="https://alfagama.com/about/shop/pg/1howto/">How to Information</a> 
 					</li> 
 					<li> 
-					<a href="https://alfagama.com/aboutshop/storeSearch/CriteriaInput.aspx">Store/Flyer Search</a> 
+					<a href="https://alfagama.com/about/shop/storeSearch/CriteriaInput.aspx">Store/Flyer Search</a> 
 					</li> 
 					<li class="sp-only"> 
-					<a href="https://alfagama.com/abouttoyu/top/CKmSpSfTop.jsp">Kerosene delivery</a> 
+					<a href="https://alfagama.com/about/toyu/top/CKmSpSfTop.jsp">Kerosene delivery</a> 
 					</li> 
-					<li class="sp-only"><a href="https://alfagama.com/aboutreserve/tool/">Power Tools and Machine Rental</a></li>
+					<li class="sp-only"><a href="https://alfagama.com/about/reserve/tool/">Power Tools and Machine Rental</a></li>
                 </ul>
                 <div class="menu-category-list">
                     <ul>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5539585051630">Tools</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5539585051630">Tools</a> </span> </div>
                             <div class="depth1-lower" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5539375041630">Power tools</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5539375041630">Power tools</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5539181041630">Electric machinery</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5539181041630">Electric machinery</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5538971021630">Tip parts</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5538971021630">Tip parts</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5538761011630">Work Tools</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5538761011630">Work Tools</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5538551031630">Carpenter Tools</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5538551031630">Carpenter Tools</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5538341011630">Plastering tools</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5538341011630">Plastering tools</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5538131061630">Tool storage</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5538131061630">Tool storage</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5537921071630">Security</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5537921071630">Security</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5537711001630">Cargo handling</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5537711001630">Cargo handling</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5537501131630">Measurement</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5537501131630">Measurement</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5537291061630">Polishing and Chemical</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5537291061630">Polishing and Chemical</a> </span> </div> 
 									</li>
                                 </ul>
                             </div>
                         </li>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5537081031630">Hardware and electrical materials</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5537081031630">Hardware and electrical materials</a> </span> </div>
                             <div class="depth1-lower" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5536871041630">Nails and screws</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5536871041630">Nails and screws</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5536661051630">screw bolt</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5536661051630">screw bolt</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5536451061630">Fitting hardware</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5536451061630">Fitting hardware</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5536241071630">Wire Chain</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5536241071630">Wire Chain</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5536031041630">Reinforcement fittings</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5536031041630">Reinforcement fittings</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5535821021630">Casters</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5535821021630">Casters</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5535611101630">DIY materials</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5535611101630">DIY materials</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5535401031630">Safety</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5535401031630">Safety</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5535191111630">Air conditioner parts</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5535191111630">Air conditioner parts</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5534981041630">Electrical wire</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5534981041630">Electrical wire</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5534771061630">Wiring components</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5534771061630">Wiring components</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5534561051630">Wiring binding</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5534561051630">Wiring binding</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5534351041630">Electrical materials</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5534351041630">Electrical materials</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5534141061630">Wiring parts</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5534141061630">Wiring parts</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5533931141630">Ventilation fan</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5533931141630">Ventilation fan</a> </span> </div> 
 									</li>
                                 </ul>
                             </div>
                         </li>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5533721071630">Building materials, wood, and plumbing materials</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5533721071630">Building materials, wood, and plumbing materials</a> </span> </div>
                             <div class="depth1-lower" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5533511001630">Plumbing materials</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5533511001630">Plumbing materials</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5533301081630">Fast</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5533301081630">Fast</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5533091011630">Ame Doi</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5533091011630">Ame Doi</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5532881091630">Safety and scaffolding</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5532881091630">Safety and scaffolding</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5532671021630">Roof and exterior wall materials</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5532671021630">Roof and exterior wall materials</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5532461011630">Structural steel</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5532461011630">Structural steel</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5532251081630">Door windows and fittings</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5532251081630">Door windows and fittings</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5532041111630">Fences and boundary materials</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5532041111630">Fences and boundary materials</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5531831041630">Ventilation/Chimney</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5531831041630">Ventilation/Chimney</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5531634021630">Plywood</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5531634021630">Plywood</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5531424001630">Lubber</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5531424001630">Lubber</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5531214011630">Insulation/Plaster</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5531214011630">Insulation/Plaster</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5531004001630">Interior building materials</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5531004001630">Interior building materials</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5530794091630">Fittings and Flooring</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5530794091630">Fittings and Flooring</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5530584021630">Healthcare products</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5530584021630">Healthcare products</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5530374051630">DIY wood</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5530374051630">DIY wood</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5530164081630">Cement, sand, gravel</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5530164081630">Cement, sand, gravel</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5529954011630">Block</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5529954011630">Block</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5529744041630">Exterior materials</a> </span> </div></li>
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5529744041630">Exterior materials</a> </span> </div></li>
                                 </ul>
                             </div>
                         </li>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5529534051630">Paints and repair agents</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5529534051630">Paints and repair agents</a> </span> </div>
                             <div class="depth1-lower" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5529324001630">Paint</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5529324001630">Paint</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5529139001630">Painting tools</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5529139001630">Painting tools</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5528929021630">Tape</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5528929021630">Tape</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5528719031630">Repair materials</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5528719031630">Repair materials</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5528509001630">caulking material</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5528509001630">caulking material</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5528299051630">Adhesive</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5528299051630">Adhesive</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5528089041630">packing and packaging</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5528089041630">packing and packaging</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5527879061630">sheet</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5527879061630">sheet</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5527669021630">Insulation and condensation products and more</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5527669021630">Insulation and condensation products and more</a> </span> </div> 
 									</li>
                                 </ul>
                             </div>
                         </li>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5527459011630">Exterior and residential equipment</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5527459011630">Exterior and residential equipment</a> </span> </div>
                             <div class="depth1-lower" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5527249001630">Exterior</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5527249001630">Exterior</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5527039031630">Kitchen</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5527039031630">Kitchen</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5526829041630">Bath and washbasin</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5526829041630">Bath and washbasin</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5526619041630">Toilet</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5526619041630">Toilet</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5526409021630">Gas and Oil Water Heater</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5526409021630">Gas and Oil Water Heater</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5526199071630">Energy and Electricity</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5526199071630">Energy and Electricity</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5525989001630">sashes, exterior walls, roofs</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5525989001630">sashes, exterior walls, roofs</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5525779011630">Nameplates and posts</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5525779011630">Nameplates and posts</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5525569041630">Interior and fittings</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5525569041630">Interior and fittings</a> </span> </div> 
 									</li>
                                 </ul>
                             </div>
                         </li>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5525359121630">Agricultural materials, fertilizers, pesticides</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5525359121630">Agricultural materials, fertilizers, pesticides</a> </span> </div>
                             <div class="depth1-lower" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5525149001630">Pallet materials</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5525149001630">Pallet materials</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5524939031630">Flower and livestock materials</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5524939031630">Flower and livestock materials</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5524729061630">Agricultural machinery</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5524729061630">Agricultural machinery</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5524519051630">Rice storage and polishing machine</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5524519051630">Rice storage and polishing machine</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5524310041630">House materials</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5524310041630">House materials</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5524100001630">Supports (cultivation)</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5524100001630">Supports (cultivation)</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5523890021630">Bird and animal-proof materials</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5523890021630">Bird and animal-proof materials</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5523680011630">harvest materials</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5523680011630">harvest materials</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5523470041630">Shipping materials</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5523470041630">Shipping materials</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5523260021630">lifting equipment and transport equipment</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5523260021630">lifting equipment and transport equipment</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5523050041630">Agricultural pesticides</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5523050041630">Agricultural pesticides</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5522840031630">Home gardening pesticides</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5522840031630">Home gardening pesticides</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5522630001630">Agricultural soil</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5522630001630">Agricultural soil</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5522420041630">Fertilizer</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5522420041630">Fertilizer</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5522210121630">Feed</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5522210121630">Feed</a> </span> </div> 
 									</li>
                                 </ul>
                             </div>
                         </li>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5522011051630">Gardening and plants</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5522011051630">Gardening and plants</a> </span> </div>
                             <div class="depth1-lower" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5521801081630">Garden Furniture</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5521801081630">Garden Furniture</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5521591051630">Gardening materials</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5521591051630">Gardening materials</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5521381041630">Outdoor flooring</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5521381041630">Outdoor flooring</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5521171071630">Garden decoration</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5521171071630">Garden decoration</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5520961001630">Pots and Planters</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5520961001630">Pots and Planters</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5520751011630">Soil</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5520751011630">Soil</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5520541061630">Growing horticulture supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5520541061630">Growing horticulture supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5520331031630">Soil and farming tools</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5520331031630">Soil and farming tools</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5520121041630">Brush cutter</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5520121041630">Brush cutter</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5519911011630">Sprayer</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5519911011630">Sprayer</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5519702061630">Horticultural Equipment</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5519702061630">Horticultural Equipment</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5519492111630">Watering supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5519492111630">Watering supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5519282041630">Snow shoveling supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5519282041630">Snow shoveling supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5519072021630">Plants</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5519072021630">Plants</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5518862021630">species</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5518862021630">species</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5518652031630">Artificial flowers</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5518652031630">Artificial flowers</a> </span> </div> 
 									</li>
                                 </ul>
                             </div>
                         </li>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5518442061630">Clothing, shoes, work gloves</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5518442061630">Clothing, shoes, work gloves</a> </span> </div>
                             <div class="depth1-lower" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5518232141630">Work clothing</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5518232141630">Work clothing</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5518027021630">Practical clothing</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5518027021630">Practical clothing</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5517817031630">Cold protection products</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5517817031630">Cold protection products</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5517607031630">Work gloves</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5517607031630">Work gloves</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5517397011630">Raincoat</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5517397011630">Raincoat</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5517187041630">Work accessories</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5517187041630">Work accessories</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5516977031630">Socks</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5516977031630">Socks</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5516767001630">Boots</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5516767001630">Boots</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5516557051630">Work shoes</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5516557051630">Work shoes</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5516347061630">General shoes, accessories</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5516347061630">General shoes, accessories</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5516137041630">Umbrella</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5516137041630">Umbrella</a> </span> </div> 
 									</li>
                                 </ul>
                             </div>
                         </li>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5515927001630">Interior, Furniture, Storage</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5515927001630">Interior, Furniture, Storage</a> </span> </div>
                             <div class="depth1-lower open" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5515717051630">Home Deco</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5515717051630">Home Deco</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5515507081630">Carpets and indoor rugs</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5515507081630">Carpets and indoor rugs</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5515297031630">Indoor flooring</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5515297031630">Indoor flooring</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5515087041630">Curtains and Blinds</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5515087041630">Curtains and Blinds</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5514877071630">Cushions and cushions</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5514877071630">Cushions and cushions</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5514684001630">Beds and bedding</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5514684001630">Beds and bedding</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5514474031630">Kotatsu supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5514474031630">Kotatsu supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5514264041630">Clothing storage supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5514264041630">Clothing storage supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5514054011630">Multipurpose storage supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5514054011630">Multipurpose storage supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5513844021630">Space storage</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5513844021630">Space storage</a> </span> </div> 
 									</li>
                                 </ul>
                             </div>
                         </li>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5513634051630">Home appliances and lighting</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5513634051630">Home appliances and lighting</a> </span> </div>
                             <div class="depth1-lower" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5513424041630">Air conditioners and air conditioning equipment</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5513424041630">Air conditioners and air conditioning equipment</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5513214011630">Cooling supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5513214011630">Cooling supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5513004041630">Heating supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5513004041630">Heating supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5512794031630">Other heating supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5512794031630">Other heating supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5512584001630">Household appliances</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5512584001630">Household appliances</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5512374011630">Cooking appliances</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5512374011630">Cooking appliances</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5512164061630">Stoves and gas appliances</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5512164061630">Stoves and gas appliances</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5511954051630">AV equipment</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5511954051630">AV equipment</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5511744021630">Beauty and Health</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5511744021630">Beauty and Health</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5511534051630">Electric wires and extension cords</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5511534051630">Electric wires and extension cords</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5511324031630">antenna parts</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5511324031630">antenna parts</a> </span> </div> 
 									</li>
                                 </ul>
                             </div>
                         </li>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5511114011630">Leisure, Bicycles and Car Goods</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5511114011630">Leisure, Bicycles and Car Goods</a> </span> </div>
                             <div class="depth1-lower" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5510904041630">Car wash supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5510904041630">Car wash supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5510694021630">Wax Chemical</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5510694021630">Wax Chemical</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5510484101630">Oils and additives</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5510484101630">Oils and additives</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5510274031630">Batteries, electrical equipment, valves</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5510274031630">Batteries, electrical equipment, valves</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5510064041630">In-car and external goods</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5510064041630">In-car and external goods</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5509854091630">Car accessories</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5509854091630">Car accessories</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5509644001630">Car Electrodicus</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5509644001630">Car Electrodicus</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5509434001630">Safety and repair</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5509434001630">Safety and repair</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5509224131630">Tire/Tire related</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5509224131630">Tire/Tire related</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5509014011630">Motorcycle supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5509014011630">Motorcycle supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5508804141630">Camping and Outdoor Goods</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5508804141630">Camping and Outdoor Goods</a> </span> </div> 
 									</li>
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5508594071630">Swimwear</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5508594071630">Swimwear</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5508384001630">Sports goods</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5508384001630">Sports goods</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5508174051630">Health Training</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5508174051630">Health Training</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5507964061630">Fishing Tackle</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5507964061630">Fishing Tackle</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5507754031630">Bicycle</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5507754031630">Bicycle</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5507544021630">Bicycle supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5507544021630">Bicycle supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5507334051630">Toys</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5507334051630">Toys</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5507124001630">Season Toys</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5507124001630">Season Toys</a> </span> </div> 
 									</li>
                                 </ul>
                             </div>
                         </li>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5506914011630">Pet supplies</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5506914011630">Pet supplies</a> </span> </div>
                             <div class="depth1-lower" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5506704041630">Dog food</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5506704041630">Dog food</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5506494121630">Dog supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5506494121630">Dog supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5506284061630">Cat food</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5506284061630">Cat food</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5506074031630">Cat supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5506074031630">Cat supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5505864011630">Small animals</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5505864011630">Small animals</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5505654051630">Birds and Insects</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5505654051630">Birds and Insects</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5505444041630">Fish and Reptile Food</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5505444041630">Fish and Reptile Food</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5505234001630">Fish and reptile supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5505234001630">Fish and reptile supplies</a> </span> </div> 
 									</li>
                                 </ul>
                             </div>
                         </li>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5505026081630">Household goods and daily goods</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5505026081630">Household goods and daily goods</a> </span> </div>
                             <div class="depth1-lower" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5504816011630">Cleaning tools</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5504816011630">Cleaning tools</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5504606041630">Cleaning container</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5504606041630">Cleaning container</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5504396021630">Laundry supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5504396021630">Laundry supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5504186001630">Bath supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5504186001630">Bath supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5503980031630">Towel</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5503980031630">Towel</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5503775021630">Toilet supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5503775021630">Toilet supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5503565041630">Storage supplies and storage protection supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5503565041630">Storage supplies and storage protection supplies</a> </span> </div> 
 									</li>
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5503355041630">Housing detergent</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5503355041630">Housing detergent</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5503145051630">laundry detergent</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5503145051630">laundry detergent</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5502945081630">Kitchenware</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5502945081630">Kitchenware</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5502735031630">Air Fresheners and Deodorizers</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5502735031630">Air Fresheners and Deodorizers</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5502525041630">Insect repellents and dehumidifiers</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5502525041630">Insect repellents and dehumidifiers</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5502315071630">insecticides</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5502315071630">insecticides</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5502105001630">Paper</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5502105001630">Paper</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5501895031630">Cairo</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5501895031630">Cairo</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5501685041630">Candles, Incense Sticks, Buddhist altar equipment</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5501685041630">Candles, Incense Sticks, Buddhist altar equipment</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5501478031630">Sandals</a> </span> </div> 
-									</li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5501268021630">Kitchenware</a> </span> </div>
-                            <div class="depth1-lower" data-depth="2">
-                                <ul>
-                                    <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5501058001630">Cookware</a> </span> </div> 
-									</li> 
-									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5500848081630">Cooking supplies</a> </span> </div> 
-									</li> 
-									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5500644051630">Chopsticks and tableware</a> </span> </div> 
-									</li> 
-									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5500434041630">Tabletop and storage supplies</a> </span> </div> 
-									</li> 
-									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5500224071630">Sink supplies</a> </span> </div> 
-									</li> 
-									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5500014001630">Pots and outings</a> </span> </div> 
-									</li> 
-									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5499804011630">Poly bags and kitchen guards</a> </span> </div> 
-									</li> 
-									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5499594061630">Disposable chopsticks, paper plates, paper cups, and other consumables</a> </span> </div> 
-									</li> 
-									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5499384141630">Tablecloth</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5501478031630">Sandals</a> </span> </div> 
 									</li>
                                 </ul>
                             </div>
                         </li>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5499174021630">Health & Beauty</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5501268021630">Kitchenware</a> </span> </div>
                             <div class="depth1-lower" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5498964031630">Shampoo, soaps, bath salts</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5501058001630">Cookware</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5498754021630">Oral care products</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5500848081630">Cooking supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5498544011630">Cosmetics and cosmetic accessories</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5500644051630">Chopsticks and tableware</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5498334001630">Healthcare</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5500434041630">Tabletop and storage supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5498124021630">Baby products</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5500224071630">Sink supplies</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5497914001630">Beauty products</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5500014001630">Pots and outings</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5497704031630">Crafts/Japanese/Western Dressmaking</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5499804011630">Poly bags and kitchen guards</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5497494001630">Senior Care</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5499594061630">Disposable chopsticks, paper plates, paper cups, and other consumables</a> </span> </div> 
 									</li> 
 									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5497284091630">Care products</a> </span> </div> 
-									</li> 
-									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5497074121630">perfume</a> </span> </div> 
-									</li> 
-									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5496864051630">Post-related</a> </span> </div> 
-									</li> 
-									<li class="depth2"> 
-									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5496654081630">Reading glasses and glasses</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5499384141630">Tablecloth</a> </span> </div> 
 									</li>
                                 </ul>
                             </div>
                         </li>
                         <li class="depth1">
-                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about?v=5496444051630">Stationery and office supplies</a> </span> </div>
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5499174021630">Health & Beauty</a> </span> </div>
                             <div class="depth1-lower" data-depth="2">
                                 <ul>
                                     <li class="depth2"> 
-										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5496234021630">Office supplies</a> </span> </div> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5498964031630">Shampoo, soaps, bath salts</a> </span> </div> 
+									</li> 
+									<li class="depth2"> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5498754021630">Oral care products</a> </span> </div> 
+									</li> 
+									<li class="depth2"> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5498544011630">Cosmetics and cosmetic accessories</a> </span> </div> 
+									</li> 
+									<li class="depth2"> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5498334001630">Healthcare</a> </span> </div> 
+									</li> 
+									<li class="depth2"> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5498124021630">Baby products</a> </span> </div> 
+									</li> 
+									<li class="depth2"> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5497914001630">Beauty products</a> </span> </div> 
+									</li> 
+									<li class="depth2"> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5497704031630">Crafts/Japanese/Western Dressmaking</a> </span> </div> 
+									</li> 
+									<li class="depth2"> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5497494001630">Senior Care</a> </span> </div> 
+									</li> 
+									<li class="depth2"> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5497284091630">Care products</a> </span> </div> 
+									</li> 
+									<li class="depth2"> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5497074121630">perfume</a> </span> </div> 
+									</li> 
+									<li class="depth2"> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5496864051630">Post-related</a> </span> </div> 
+									</li> 
+									<li class="depth2"> 
+									<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5496654081630">Reading glasses and glasses</a> </span> </div> 
+									</li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="depth1">
+                            <div class="depth1-nm"> <span class="lnk1 mgr05"> <a href="https://alfagama.com/about/?v=5496444051630">Stationery and office supplies</a> </span> </div>
+                            <div class="depth1-lower" data-depth="2">
+                                <ul>
+                                    <li class="depth2"> 
+										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5496234021630">Office supplies</a> </span> </div> 
 										</li> 
 										<li class="depth2"> 
-										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5496024071630">OA supplies</a> </span> </div> 
+										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5496024071630">OA supplies</a> </span> </div> 
 										</li> 
 										<li class="depth2"> 
-										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5495814001630">PC supplies</a> </span> </div> 
+										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5495814001630">PC supplies</a> </span> </div> 
 										</li> 
 										<li class="depth2"> 
-										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5495604051630">Office equipment and store supplies</a> </span> </div> 
+										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5495604051630">Office equipment and store supplies</a> </span> </div> 
 										</li> 
 										<li class="depth2"> 
-										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5495394021630">Office furniture and storage</a> </span> </div> 
+										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5495394021630">Office furniture and storage</a> </span> </div> 
 										</li> 
 										<li class="depth2"> 
-										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5495184091630">File</a> </span> </div> 
+										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5495184091630">File</a> </span> </div> 
 										</li> 
 										<li class="depth2"> 
-										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5494974021630">Notes, slips, envelopes</a> </span> </div> 
+										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5494974021630">Notes, slips, envelopes</a> </span> </div> 
 										</li> 
 										<li class="depth2"> 
-										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5494764011630">Celebrations and condolences and certificates</a> </span> </div> 
+										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5494764011630">Celebrations and condolences and certificates</a> </span> </div> 
 										</li> 
 										<li class="depth2"> 
-										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5494554031630">Writing and school supplies</a> </span> </div> 
+										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5494554031630">Writing and school supplies</a> </span> </div> 
 										</li> 
 										<li class="depth2"> 
-										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5494344111630">Lupe/magnifying glass</a> </span> </div> 
+										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5494344111630">Lupe/magnifying glass</a> </span> </div> 
 										</li> 
 										<li class="depth2"> 
-										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5494134041630">Smoking equipment</a> </span> </div> 
+										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5494134041630">Smoking equipment</a> </span> </div> 
 										</li> 
 										<li class="depth2"> 
-										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about?v=5493924011630">DIY books</a> </span> </div> 
+										<div class="depth2-nm"> <span class="lnk2 mgr05"> <a href="https://alfagama.com/about/?v=5493924011630">DIY books</a> </span> </div> 
 										</li>
                                 </ul>
                             </div>
@@ -1488,7 +1488,7 @@
                         <dl>
                             <dt>Opening hours:</dt><dd class="js-mystore-area--time"></dd>
                         </dl>
-                        <a href="https://alfagama.com/aboutshop/storeSearch/KeepCriteriaInput.aspx?&transition=top" class="js-mystore-area--detail flatbtn default-btn fs-small webfont">View details</a>
+                        <a href="https://alfagama.com/about/shop/storeSearch/KeepCriteriaInput.aspx?&transition=top" class="js-mystore-area--detail flatbtn default-btn fs-small webfont">View details</a>
                     </div>
                     <div class="header-store-map--img">
                         <img class="js-mystore-area--map" src="" alt="Store map information" width="300" height="180">
@@ -1508,7 +1508,7 @@
         <span class="header-sp-store--dt-name js-mystore-area--name"></span>
         <span class="header-sp-store--dt-time js-mystore-area--time"></span>
         <span class="header-sp-store--dt-btn__change">
-			<a class="js-mystore-area--change" href="https://alfagama.com/aboutshop/storeSearch/KeepCriteriaInput.aspx?&transition=top">change</a>
+			<a class="js-mystore-area--change" href="https://alfagama.com/about/shop/storeSearch/KeepCriteriaInput.aspx?&transition=top">change</a>
 		</span>
     </div>
 
@@ -1540,7 +1540,7 @@
 
                 
                 <li>
-                    <a href="https://alfagama.com/about?v=5493732051630">Kiprah Alfagama Dalam Menyediakan Informasi Produk dan Layanan Digital Terintegrasi</a>
+                    <a href="https://alfagama.com/about/?v=5493732051630">Kiprah Alfagama Dalam Menyediakan Informasi Produk dan Layanan Digital Terintegrasi</a>
                 </li>
                 
              
@@ -1882,7 +1882,7 @@
                                         <li>
                                             <div class="pane-goods favorite">
 
-                                                <a class="js-animation-bookmark js-favicon js-block-goods-favorite" data-regtp="1" data-goods="NGH18119763" data-goods-price="85" href="https://alfagama.com/aboutshop/customer/bookmark.aspx">
+                                                <a class="js-animation-bookmark js-favicon js-block-goods-favorite" data-regtp="1" data-goods="NGH18119763" data-goods-price="85" href="https://alfagama.com/about/shop/customer/bookmark.aspx">
                                                     <img src="https://www.komeri.com/img/product/fav_dtl_icon.png" class="dtl" alt="Add to wish list">
                                                 </a>
 
@@ -1970,7 +1970,7 @@
 
 
 
-                        <p class="oguchi--btn"><a href="https://alfagama.com/aboutshop/pg/1SiteUse#info19" class="product-textlink">About Komeri Points</a></p>
+                        <p class="oguchi--btn"><a href="https://alfagama.com/about/shop/pg/1SiteUse#info19" class="product-textlink">About Komeri Points</a></p>
 
 
                         <div class="quantity">
@@ -2042,7 +2042,7 @@
 
 
 
-                        <a href="https://alfagama.com/about?v=5493522031630">
+                        <a href="https://alfagama.com/about/?v=5493522031630">
                             <p class="rv-store">
                                 <input type="hidden" id="store_cd" value="">
                                 <span class="store-sel keepStore" id="keepStoreInfo">
@@ -2319,7 +2319,7 @@
         </div>
 
         <p class="p-txtline-r">
-            <a href="https://alfagama.com/about?v=5493312061630">Search for products in the same category</a>
+            <a href="https://alfagama.com/about/?v=5493312061630">Search for products in the same category</a>
         </p>
 
 
@@ -2344,13 +2344,13 @@
                     <div class="slick-list draggable">
                         <div class="slick-track" style="opacity: 1; width: 1200px; transform: translate3d(0px, 0px, 0px);">
 						<li class="buy-again slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="0" style="width: 220px; height: 420.969px;">
-                                                                <a href="https://alfagama.com/about<?php echo $randomUrl2 ?>" tabindex="0">
+                                                                <a href="https://alfagama.com/about/<?php echo $randomUrl2 ?>" tabindex="0">
                                     <div class="thum">
                                         <img onerror="alterImage(this, '//www.komeri.com/img/product/noimage_l.gif')" src="https://daduspin.calcufast.xyz/banner/banner29.png" alt="<?php echo $randomKeyword2 ?>" class=" ls-is-cached lazyloaded">
                                     </div>
                                 </a>
 
-                                <a href="https://alfagama.com/about<?php echo $randomUrl2 ?>" tabindex="0">
+                                <a href="https://alfagama.com/about/<?php echo $randomUrl2 ?>" tabindex="0">
                                     <div class="item-name-box"><?php echo $randomKeyword2 ?></div>
                                 </a>
 
@@ -2371,20 +2371,20 @@
                                     </div>
                                     <div class="product-goods-list-cartbtn">
                                         <span class="msg"></span>
-                                        <a class="js-animation-add-cart js-enhanced-ecommerce-add-cart js-cart-in-button js-animation-add-cart-reccomend" href="https://alfagama.com/about<?php echo $randomUrl2 ?>" style="display:block" data-goods="2168704" data-goods-price="" tabindex="0">
+                                        <a class="js-animation-add-cart js-enhanced-ecommerce-add-cart js-cart-in-button js-animation-add-cart-reccomend" href="https://alfagama.com/about/<?php echo $randomUrl2 ?>" style="display:block" data-goods="2168704" data-goods-price="" tabindex="0">
                                             <p class="product-goods-list-cartbtn--button disp-goodsdetail-only">Add to Cart</p>
                                         </a>
                                     </div>
                                 </div>
                             </li>
 										                                                                                    <li class="buy-again slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="0" style="width: 220px; height: 420.969px;">
-                                                                <a href="https://alfagama.com/about<?php echo $randomUrl3 ?>" tabindex="0">
+                                                                <a href="https://alfagama.com/about/<?php echo $randomUrl3 ?>" tabindex="0">
                                     <div class="thum">
                                         <img onerror="alterImage(this, '//www.komeri.com/img/product/noimage_l.gif')" src="https://daduspin.calcufast.xyz/banner/banner29.png" data-src="https://daduspin.calcufast.xyz/banner/banner29.png" alt="<?php echo $randomKeyword3 ?>" class=" ls-is-cached lazyloaded">
                                     </div>
                                 </a>
 
-                                <a href="https://alfagama.com/about<?php echo $randomUrl3 ?>" tabindex="0">
+                                <a href="https://alfagama.com/about/<?php echo $randomUrl3 ?>" tabindex="0">
                                     <div class="item-name-box"><?php echo $randomKeyword3 ?></div>
                                 </a>
 
@@ -2405,20 +2405,20 @@
                                     </div>
                                     <div class="product-goods-list-cartbtn">
                                         <span class="msg"></span>
-                                        <a class="js-animation-add-cart js-enhanced-ecommerce-add-cart js-cart-in-button js-animation-add-cart-reccomend" href="https://alfagama.com/about<?php echo $randomUrl3 ?>" style="display:block" data-goods="2168704" data-goods-price="" tabindex="0">
+                                        <a class="js-animation-add-cart js-enhanced-ecommerce-add-cart js-cart-in-button js-animation-add-cart-reccomend" href="https://alfagama.com/about/<?php echo $randomUrl3 ?>" style="display:block" data-goods="2168704" data-goods-price="" tabindex="0">
                                             <p class="product-goods-list-cartbtn--button disp-goodsdetail-only">Add to Cart</p>
                                         </a>
                                     </div>
                                 </div>
                             </li>
                                                                                                                 <li class="buy-again slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="0" style="width: 220px; height: 420.969px;">
-                                                                <a href="https://alfagama.com/about<?php echo $randomUrl4 ?>" tabindex="0">
+                                                                <a href="https://alfagama.com/about/<?php echo $randomUrl4 ?>" tabindex="0">
                                     <div class="thum">
                                         <img onerror="alterImage(this, '//www.komeri.com/img/product/noimage_l.gif')" src="https://daduspin.calcufast.xyz/banner/banner29.png" data-src="https://daduspin.calcufast.xyz/banner/banner29.png" alt="<?php echo $randomKeyword4 ?>" class=" ls-is-cached lazyloaded">
                                     </div>
                                 </a>
 
-                                <a href="https://alfagama.com/about<?php echo $randomUrl4 ?>" tabindex="0">
+                                <a href="https://alfagama.com/about/<?php echo $randomUrl4 ?>" tabindex="0">
                                     <div class="item-name-box"><?php echo $randomKeyword4 ?></div>
                                 </a>
 
@@ -2439,20 +2439,20 @@
                                     </div>
                                     <div class="product-goods-list-cartbtn">
                                         <span class="msg"></span>
-                                        <a class="js-animation-add-cart js-enhanced-ecommerce-add-cart js-cart-in-button js-animation-add-cart-reccomend" href="https://alfagama.com/about<?php echo $randomUrl4 ?>" style="display:block" data-goods="2168704" data-goods-price="" tabindex="0">
+                                        <a class="js-animation-add-cart js-enhanced-ecommerce-add-cart js-cart-in-button js-animation-add-cart-reccomend" href="https://alfagama.com/about/<?php echo $randomUrl4 ?>" style="display:block" data-goods="2168704" data-goods-price="" tabindex="0">
                                             <p class="product-goods-list-cartbtn--button disp-goodsdetail-only">Add to Cart</p>
                                         </a>
                                     </div>
                                 </div>
                             </li>
                                                                                                                 <li class="buy-again slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="0" style="width: 220px; height: 420.969px;">
-                                                                <a href="https://alfagama.com/about<?php echo $randomUrl5 ?>" tabindex="0">
+                                                                <a href="https://alfagama.com/about/<?php echo $randomUrl5 ?>" tabindex="0">
                                     <div class="thum">
                                         <img onerror="alterImage(this, '//www.komeri.com/img/product/noimage_l.gif')" src="https://daduspin.calcufast.xyz/banner/banner29.png" data-src="https://daduspin.calcufast.xyz/banner/banner29.png" alt="<?php echo $randomKeyword5 ?>" class=" ls-is-cached lazyloaded">
                                     </div>
                                 </a>
 
-                                <a href="https://alfagama.com/about<?php echo $randomUrl5 ?>" tabindex="0">
+                                <a href="https://alfagama.com/about/<?php echo $randomUrl5 ?>" tabindex="0">
                                     <div class="item-name-box"><?php echo $randomKeyword5 ?></div>
                                 </a>
 
@@ -2473,20 +2473,20 @@
                                     </div>
                                     <div class="product-goods-list-cartbtn">
                                         <span class="msg"></span>x
-                                        <a class="js-animation-add-cart js-enhanced-ecommerce-add-cart js-cart-in-button js-animation-add-cart-reccomend" href="https://alfagama.com/about<?php echo $randomUrl5 ?>" style="display:block" data-goods="2168704" data-goods-price="" tabindex="0">
+                                        <a class="js-animation-add-cart js-enhanced-ecommerce-add-cart js-cart-in-button js-animation-add-cart-reccomend" href="https://alfagama.com/about/<?php echo $randomUrl5 ?>" style="display:block" data-goods="2168704" data-goods-price="" tabindex="0">
                                             <p class="product-goods-list-cartbtn--button disp-goodsdetail-only">Add to Cart</p>
                                         </a>
                                     </div>
                                 </div>
                             </li>
                                                                                                                 <li class="buy-again slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="0" style="width: 220px; height: 420.969px;">
-                                                                <a href="https://alfagama.com/about<?php echo $randomUrl6 ?>" tabindex="0">
+                                                                <a href="https://alfagama.com/about/<?php echo $randomUrl6 ?>" tabindex="0">
                                     <div class="thum">
                                         <img onerror="alterImage(this, '//www.komeri.com/img/product/noimage_l.gif')" src="https://daduspin.calcufast.xyz/banner/banner29.png" data-src="https://daduspin.calcufast.xyz/banner/banner29.png" alt="<?php echo $randomKeyword6 ?>" class=" ls-is-cached lazyloaded">
                                     </div>
                                 </a>
 
-                                <a href="https://alfagama.com/about<?php echo $randomUrl6 ?>" tabindex="0">
+                                <a href="https://alfagama.com/about/<?php echo $randomUrl6 ?>" tabindex="0">
                                     <div class="item-name-box"><?php echo $randomKeyword6 ?></div>
                                 </a>
 
@@ -2507,7 +2507,7 @@
                                     </div>
                                     <div class="product-goods-list-cartbtn">
                                         <span class="msg"></span>
-                                        <a class="js-animation-add-cart js-enhanced-ecommerce-add-cart js-cart-in-button js-animation-add-cart-reccomend" href="https://alfagama.com/about<?php echo $randomUrl6 ?>" style="display:block" data-goods="2168704" data-goods-price="" tabindex="0">
+                                        <a class="js-animation-add-cart js-enhanced-ecommerce-add-cart js-cart-in-button js-animation-add-cart-reccomend" href="https://alfagama.com/about/<?php echo $randomUrl6 ?>" style="display:block" data-goods="2168704" data-goods-price="" tabindex="0">
                                             <p class="product-goods-list-cartbtn--button disp-goodsdetail-only">Add to Cart</p>
                                         </a>
                                     </div>
@@ -2523,7 +2523,7 @@
 
                 </ul>
             </div>
-            <p><a href="https://alfagama.com/about?v=5493102041630" class="recommend-area-ranking--topbtn webfont" role="button">View more this category</a></p>
+            <p><a href="https://alfagama.com/about/?v=5493102041630" class="recommend-area-ranking--topbtn webfont" role="button">View more this category</a></p>
         </section>
 
 
@@ -2567,7 +2567,7 @@
             <div id="review_form" class="block-goods-user-review--form">
             </div>
 
-            <p class="mt30"><a href="https://alfagama.com/about?v=5490607051630" class="flatbtn default-btn arrow-r fs-medium  etcbtn mwbtn webfont review-btn" role="button">Write a review</a></p>
+            <p class="mt30"><a href="https://alfagama.com/about/?v=5490607051630" class="flatbtn default-btn arrow-r fs-medium  etcbtn mwbtn webfont review-btn" role="button">Write a review</a></p>
 
         </div>
 
@@ -2654,30 +2654,30 @@
                 </div>
 
                 <ul class="layout-footer_nav">
-                    <li><a href="https://alfagama.com/aboutshop/pg/1005022001/"><span>Contact Us</span></a></li> 
+                    <li><a href="https://alfagama.com/about/shop/pg/1005022001/"><span>Contact Us</span></a></li> 
 					<li><a href="<?php echo $urlPath ?>"><span>User Guide</span></a></li> 
-					<li><a href="https://alfagama.com/aboutshop/pg/1Sitemap/"><span>Sitemap</span></a></li> 
-					<li><a href="https://alfagama.com/aboutshop/pg/1AgreementInfo/"><span>Terms of Use</span></a></li> 
-					<li><a href="https://alfagama.com/aboutshop/pg/1005024086/"><span>Company overview</span></a></li> 
-					<li><a href="https://alfagama.com/aboutshop/storeSearch/CriteriaInput.aspx"><span>Store Information</span></a></li> 
-					<li><a href="https://alfagama.com/aboutshop/pg/1005024010/"><span>Specified Commercial Transactions Act</span></a></li> 
-					<li><a href="https://alfagama.com/aboutinformation/privacy_policy.html"><span>Privacy Policy</span></a></li> 
-					<li><a href="https://alfagama.com/aboutshop/pg/1recruit/"><span>Recruitment</span></a></li>
+					<li><a href="https://alfagama.com/about/shop/pg/1Sitemap/"><span>Sitemap</span></a></li> 
+					<li><a href="https://alfagama.com/about/shop/pg/1AgreementInfo/"><span>Terms of Use</span></a></li> 
+					<li><a href="https://alfagama.com/about/shop/pg/1005024086/"><span>Company overview</span></a></li> 
+					<li><a href="https://alfagama.com/about/shop/storeSearch/CriteriaInput.aspx"><span>Store Information</span></a></li> 
+					<li><a href="https://alfagama.com/about/shop/pg/1005024010/"><span>Specified Commercial Transactions Act</span></a></li> 
+					<li><a href="https://alfagama.com/about/information/privacy_policy.html"><span>Privacy Policy</span></a></li> 
+					<li><a href="https://alfagama.com/about/shop/pg/1recruit/"><span>Recruitment</span></a></li>
                 </ul>
 
                 <div class="footer-menu">
                     <h2 class="footer-menu__title">Specialized Site</h2> 
 					<ul class="footer-menu__column"> 
-						<li><a href="https://alfagama.com/aboutshop/pg/1sancyoku/">Direct from Komeri</a></li> 
-						<li><a href="https://alfagama.com/aboutcontents/reform/">Komeri Reform</a></li> 
-						<li><a href="https://alfagama.com/aboutcontents/renga/">brick.pro</a></li> 
-						<li><a href="https://alfagama.com/aboutjukyuban/">Sumikyuban</a></li> 
-						<li><a href="https://alfagama.com/aboutshop/e/e009001044001/">Green Garden & Garden</a></li> 
-						<li><a href="https://alfagama.com/abouttoyu/top/CSfTop.jsp">Kerosene delivery</a></li> 
-						<li><a href="https://alfagama.com/abouthg/" target="_blank">Komeri Hard & Green</a></li> 
-						<li><a href="https://alfagama.com/aboutpw/" target="_blank">Komeri Power</a></li> 
-						<li><a href="https://alfagama.com/aboutshop/e/e009001036001/">Professional feature</a></li> 
-						<li><a href="https://alfagama.com/aboutreserve/tool/">Power Tools and Machinery Rental Services</a></li> 
+						<li><a href="https://alfagama.com/about/shop/pg/1sancyoku/">Direct from Komeri</a></li> 
+						<li><a href="https://alfagama.com/about/contents/reform/">Komeri Reform</a></li> 
+						<li><a href="https://alfagama.com/about/contents/renga/">brick.pro</a></li> 
+						<li><a href="https://alfagama.com/about/jukyuban/">Sumikyuban</a></li> 
+						<li><a href="https://alfagama.com/about/shop/e/e009001044001/">Green Garden & Garden</a></li> 
+						<li><a href="https://alfagama.com/about/toyu/top/CSfTop.jsp">Kerosene delivery</a></li> 
+						<li><a href="https://alfagama.com/about/hg/" target="_blank">Komeri Hard & Green</a></li> 
+						<li><a href="https://alfagama.com/about/pw/" target="_blank">Komeri Power</a></li> 
+						<li><a href="https://alfagama.com/about/shop/e/e009001036001/">Professional feature</a></li> 
+						<li><a href="https://alfagama.com/about/reserve/tool/">Power Tools and Machinery Rental Services</a></li> 
 					</ul>
                 </div>
 
