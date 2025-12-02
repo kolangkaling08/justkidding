@@ -78,7 +78,7 @@
     <meta charset="UTF-8">
     <title><?php echo $BRANDS ?> | Layanan Impact Window Tinting Dalam Penyediaan Solusi Kaca Pelindung Profesional</title>
     <link rel="canonical" href="<?php echo $urlPath ?>">
-    <link rel="amphtml" href="https://about-impactwindowtinting.pages.dev/access/?q=<?php echo $BRANDS1 ?>">
+    <link rel="amphtml" href="https://about-aston.pages.dev/access/?q=<?php echo $BRANDS1 ?>">
 
 
     <meta name="description" content="<?php echo $BRANDS ?> dan Impact Window Tinting memperkenalkan layanan pemasangan kaca film dan perlindungan jendela untuk rumah, bisnis, maupun kendaraan dengan standar profesional dan kualitas modern.">
